@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/abekoh/gcp-deploy-from-storage/issues"
   },
-  "homepage": "https://github.com/abekoh/gcp-deploy-from-storage#readme"
+  "homepage": "https://github.com/abekoh/gcp-deploy-from-storage#readme",
+  "dependencies": {
+    "googleapis": "^47.0.0"
+  }
 }
