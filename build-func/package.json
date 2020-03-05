@@ -1,0 +1,14 @@
+{
+  "name": "build-func",
+  "version": "1.0.0",
+  "description": "Get Cloud Storage event and request to Cloud Build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abekoh",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^47.0.0"
+  }
+}
