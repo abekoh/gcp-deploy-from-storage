@@ -13,7 +13,9 @@ exports.build = async file => {
         build: {
             source: {
                 storageSource: {
+                    // バケット名
                     bucket: file.bucket,
+                    // ファイル名
                     object: file.name
                 }
             },
