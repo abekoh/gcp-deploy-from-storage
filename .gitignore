@@ -105,6 +105,6 @@ dist
 
 # additional
 .idea/
-.tar.gz
+*.tar.gz
 .DS_Store
 .gcloudignore
