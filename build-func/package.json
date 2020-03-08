@@ -9,6 +9,6 @@
   "author": "abekoh",
   "license": "MIT",
   "dependencies": {
-    "googleapis": "^47.0.0"
+    "@google-cloud/cloudbuild": "^1.4.0"
   }
 }
